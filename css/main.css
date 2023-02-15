@@ -376,35 +376,35 @@ main {
     }
 
     .creations__grid > div:nth-child(1) {
-        background-image: url("/images/mobile/IMG_3938.jpg");
+        background-image: url("/images/desktop/IMG_3356.JPEG");
     }
     
     .creations__grid > div:nth-child(2) {
-        background-image: url("/images/mobile/IMG_3978.jpg");
+        background-image: url("/images/desktop/IMG_3400.JPEG");
     }
     
     .creations__grid > div:nth-child(3) {
-        background-image: url("../images/desktop/image-soccer-team.jpg");
+        background-image: url("/images/desktop/IMG_3906.JPG");
     }
     
     .creations__grid > div:nth-child(4) {
-        background-image: url("../images/desktop/image-grid.jpg");
+        background-image: url("/images/desktop/IMG_3988.JPG");
     }
     
     .creations__grid > div:nth-child(5) {
-        background-image: url("../images/desktop/image-from-above.jpg");
+        background-image: url("/images/desktop/IMG_4327.JPG");
     }
     
     .creations__grid > div:nth-child(6) {
-        background-image: url("../images/desktop/image-pocket-borealis.jpg");
+        background-image: url("/images/desktop/IMG_4492.JPG");
     }
     
     .creations__grid > div:nth-child(7) {
-        background-image: url("../images/desktop/image-curiosity.jpg");
+        background-image: url("/images/desktop/IMG_4496.JPG");
     }
     
     .creations__grid > div:nth-child(8) {
-        background-image: url("../images/desktop/image-fisheye.jpg");
+        background-image: url("/images/desktop/vlcsnap-2023-02-15-11h37m01s045.png");
     }
 
 
