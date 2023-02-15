@@ -139,6 +139,7 @@ main {
 }
 
 .intro__info {
+    border-radius: 10px 0;
     margin-top: 50px;
     text-align: center;
     display: flex;
