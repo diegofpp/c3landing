@@ -42,7 +42,7 @@ h2,
 }
 
 .hero {
-    background-image: url("/images/mobile/image_hero.png");
+    background-image: url("https://i.postimg.cc/PrxykNwf/image-hero.png");
     background-size: cover;
     min-height: 80vh;
     padding: 2rem 1rem;
@@ -139,6 +139,7 @@ main {
 }
 
 .intro__info {
+    border-radius: 10px 0;
     margin-top: 50px;
     text-align: center;
     display: flex;
@@ -197,35 +198,35 @@ main {
 }
 
 .creations__grid > div:nth-child(1) {
-    background-image: url("../images/mobile/image-deep-earth.jpg");
+    background-image: url('https://i.postimg.cc/3x0Zd61P/image-curiosity.jpg');
 }
 
 .creations__grid > div:nth-child(2) {
-    background-image: url("../images/mobile/image-night-arcade.jpg");
+    background-image: url("https://i.postimg.cc/g09HRDBr/image-deep-earth.jpg");
 }
 
 .creations__grid > div:nth-child(3) {
-    background-image: url("../images/mobile/image-soccer-team.jpg");
+    background-image: url("https://i.postimg.cc/k5xFybks/image-fisheye.jpg");
 }
 
 .creations__grid > div:nth-child(4) {
-    background-image: url("../images/mobile/image-grid.jpg");
+    background-image: url("https://i.postimg.cc/dtxBQv22/image-from-above.jpg");
 }
 
 .creations__grid > div:nth-child(5) {
-    background-image: url("../images/mobile/image-from-above.jpg");
+    background-image: url("https://i.postimg.cc/tJmhgtxq/image-grid.jpg");
 }
 
 .creations__grid > div:nth-child(6) {
-    background-image: url("../images/mobile/image-pocket-borealis.jpg");
+    background-image: url("https://i.postimg.cc/pV0Qkx1w/image-soccer-team.jpg");
 }
 
 .creations__grid > div:nth-child(7) {
-    background-image: url("../images/mobile/image-curiosity.jpg");
+    background-image: url("https://i.postimg.cc/G2dPgpRC/image-night-arcade.jpg");
 }
 
 .creations__grid > div:nth-child(8) {
-    background-image: url("../images/mobile/image-fisheye.jpg");
+    background-image: url("https://i.postimg.cc/QCMQsnVY/image-pocket-borealis.jpg");
 }
 
 .btn {
