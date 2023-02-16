@@ -26,6 +26,7 @@ a {
 
 p,
 .btn {
+    border-radius: 10px;
     font-family: 'Alata', sans-serif;
 }
 
@@ -83,10 +84,11 @@ h2,
 
 
 .hero__content p {
+    border-radius: 10px;
     background-color: rgba(0, 0, 0, 0.61);
     /* width: 400px; */
     color: white;
-    /* font-size: 2rem; */
+    font-size: 2rem;
     border: 2px solid var(--white);
     padding: 1rem;
 }
@@ -120,6 +122,7 @@ h2,
 }
 
 .mobile-menu__nav ul li a {
+    
     color: var(--white);
     font-size: 1.5rem;
 }
@@ -287,8 +290,7 @@ main {
 
 @media screen and (min-width: 800px) {
     .hero {
-        opacity: 9.9;
-        background-image: url("/images/desktop/image-hero.png");
+        background-image: url("https://i.postimg.cc/s2JFNK80/image-hero.png");
         padding: 2rem 6rem;
         min-height: 90vh;
     }
@@ -314,7 +316,7 @@ main {
 
     .desktop-menu ul li a {
         color: var(--white);
-        font-size: .9rem;
+        font-size: 1.5rem;
     }
 
     main {
@@ -348,6 +350,7 @@ main {
     }
 
     .btn-mobile {
+
         display: none;
     }
 
@@ -377,35 +380,35 @@ main {
     }
 
     .creations__grid > div:nth-child(1) {
-        background-image: url("/images/desktop/IMG_3356.JPEG");
+        background-image: url("https://i.postimg.cc/ZYPSBbVh/IMG-3356.jpg");
     }
     
     .creations__grid > div:nth-child(2) {
-        background-image: url("/images/desktop/IMG_3400.JPEG");
+        background-image: url("https://i.postimg.cc/ZnLt1HCq/IMG-3400.jpg");
     }
     
     .creations__grid > div:nth-child(3) {
-        background-image: url("/images/desktop/IMG_3906.JPG");
+        background-image: url("https://i.postimg.cc/c4sNfpbt/IMG-3906.jpg");
     }
     
     .creations__grid > div:nth-child(4) {
-        background-image: url("/images/desktop/IMG_3988.JPG");
+        background-image: url("https://i.postimg.cc/Znmz72Yg/IMG-3988.jpg");
     }
     
     .creations__grid > div:nth-child(5) {
-        background-image: url("/images/desktop/IMG_4327.JPG");
+        background-image: url("https://i.postimg.cc/jqysHQqm/IMG-4327.jpg");
     }
     
     .creations__grid > div:nth-child(6) {
-        background-image: url("/images/desktop/IMG_4492.JPG");
+        background-image: url("https://i.postimg.cc/cLkZxFTg/IMG-4492.jpg");
     }
     
     .creations__grid > div:nth-child(7) {
-        background-image: url("/images/desktop/IMG_4496.JPG");
+        background-image: url("https://i.postimg.cc/zGG8YswY/IMG-4496.jpg");
     }
     
     .creations__grid > div:nth-child(8) {
-        background-image: url("/images/desktop/vlcsnap-2023-02-15-11h37m01s045.png");
+        background-image: url("https://i.postimg.cc/qML4YJ3G/IMG-4498.jpg");
     }
 
 
