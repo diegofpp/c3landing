@@ -42,13 +42,14 @@ h2,
     display: none;
 }
 
-.hero {
-    background-image: url("https://i.postimg.cc/PrxykNwf/image-hero.png");
+.hero{
+    background-image: url("https://i.postimg.cc/Y2bzftMd/image-hero.jpg");
     background-size: cover;
     min-height: 80vh;
     padding: 2rem 1rem;
     display: flex;
     flex-direction: column;
+    
 }
 
 .header {
@@ -290,7 +291,7 @@ main {
 
 @media screen and (min-width: 800px) {
     .hero {
-        background-image: url("https://i.postimg.cc/s2JFNK80/image-hero.png");
+        background-image: url("https://i.postimg.cc/Y2bzftMd/image-hero.jpg");
         padding: 2rem 6rem;
         min-height: 90vh;
     }
@@ -437,3 +438,4 @@ main {
 .disabled {
     display: none;
 }
+
